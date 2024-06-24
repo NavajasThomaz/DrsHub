@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062345284817",
+    "project_id": "doctor-s-hub-8ecdc",
+    "storage_bucket": "doctor-s-hub-8ecdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062345284817:android:b4004d8331e5788fce39f0",
+        "android_client_info": {
+          "package_name": "com.br.drshub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYOVSin7N1Inx4BGO8CAy3_B6NIk_BOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
